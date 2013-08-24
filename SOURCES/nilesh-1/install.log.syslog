@@ -1,0 +1,77 @@
+<86>Feb 28 11:07:38 groupadd[1385]: group added to /etc/group: name=dbus, GID=81
+<86>Feb 28 11:07:38 groupadd[1385]: group added to /etc/gshadow: name=dbus
+<86>Feb 28 11:07:38 groupadd[1385]: new group: name=dbus, GID=81
+<86>Feb 28 11:07:38 useradd[1389]: new user: name=dbus, UID=81, GID=81, home=/, shell=/sbin/nologin
+<86>Feb 28 11:08:02 groupadd[1464]: group added to /etc/group: name=utmp, GID=22
+<86>Feb 28 11:08:02 groupadd[1464]: group added to /etc/gshadow: name=utmp
+<86>Feb 28 11:08:02 groupadd[1464]: new group: name=utmp, GID=22
+<86>Feb 28 11:08:02 groupadd[1468]: group added to /etc/group: name=utempter, GID=35
+<86>Feb 28 11:08:02 groupadd[1468]: group added to /etc/gshadow: name=utempter
+<86>Feb 28 11:08:02 groupadd[1468]: new group: name=utempter, GID=35
+<86>Feb 28 11:08:02 groupadd[1475]: group added to /etc/group: name=floppy, GID=19
+<86>Feb 28 11:08:02 groupadd[1475]: group added to /etc/gshadow: name=floppy
+<86>Feb 28 11:08:02 groupadd[1475]: new group: name=floppy, GID=19
+<86>Feb 28 11:08:02 groupadd[1480]: group added to /etc/group: name=vcsa, GID=69
+<86>Feb 28 11:08:02 groupadd[1480]: group added to /etc/gshadow: name=vcsa
+<86>Feb 28 11:08:02 groupadd[1480]: new group: name=vcsa, GID=69
+<86>Feb 28 11:08:02 useradd[1485]: new user: name=vcsa, UID=69, GID=69, home=/dev, shell=/sbin/nologin
+<86>Feb 28 11:09:04 groupadd[1603]: group added to /etc/group: name=abrt, GID=173
+<86>Feb 28 11:09:04 groupadd[1603]: group added to /etc/gshadow: name=abrt
+<86>Feb 28 11:09:04 groupadd[1603]: new group: name=abrt, GID=173
+<86>Feb 28 11:09:04 useradd[1608]: new user: name=abrt, UID=173, GID=173, home=/etc/abrt, shell=/sbin/nologin
+<86>Feb 28 11:09:18 groupadd[1698]: group added to /etc/group: name=cdrom, GID=11
+<86>Feb 28 11:09:18 groupadd[1698]: group added to /etc/gshadow: name=cdrom
+<86>Feb 28 11:09:18 groupadd[1698]: new group: name=cdrom, GID=11
+<86>Feb 28 11:09:18 groupadd[1703]: group added to /etc/group: name=tape, GID=33
+<86>Feb 28 11:09:18 groupadd[1703]: group added to /etc/gshadow: name=tape
+<86>Feb 28 11:09:18 groupadd[1703]: new group: name=tape, GID=33
+<86>Feb 28 11:09:18 groupadd[1708]: group added to /etc/group: name=dialout, GID=18
+<86>Feb 28 11:09:18 groupadd[1708]: group added to /etc/gshadow: name=dialout
+<86>Feb 28 11:09:18 groupadd[1708]: new group: name=dialout, GID=18
+<86>Feb 28 11:09:41 groupadd[1744]: group added to /etc/group: name=haldaemon, GID=68
+<86>Feb 28 11:09:41 groupadd[1744]: group added to /etc/gshadow: name=haldaemon
+<86>Feb 28 11:09:41 groupadd[1744]: new group: name=haldaemon, GID=68
+<86>Feb 28 11:09:41 useradd[1749]: new user: name=haldaemon, UID=68, GID=68, home=/, shell=/sbin/nologin
+<86>Feb 28 11:09:41 useradd[1749]: add 'haldaemon' to group 'haldaemon'
+<86>Feb 28 11:09:41 useradd[1749]: add 'haldaemon' to shadow group 'haldaemon'
+<86>Feb 28 11:09:43 groupadd[1767]: group added to /etc/group: name=ntp, GID=38
+<86>Feb 28 11:09:43 groupadd[1767]: group added to /etc/gshadow: name=ntp
+<86>Feb 28 11:09:43 groupadd[1767]: new group: name=ntp, GID=38
+<86>Feb 28 11:09:43 useradd[1771]: new user: name=ntp, UID=38, GID=38, home=/etc/ntp, shell=/sbin/nologin
+<86>Feb 28 11:09:43 groupadd[1780]: group added to /etc/group: name=saslauth, GID=76
+<86>Feb 28 11:09:43 groupadd[1780]: group added to /etc/gshadow: name=saslauth
+<86>Feb 28 11:09:43 groupadd[1780]: new group: name=saslauth, GID=76
+<86>Feb 28 11:09:43 useradd[1785]: new user: name=saslauth, UID=499, GID=76, home=/var/empty/saslauth, shell=/sbin/nologin
+<86>Feb 28 11:09:44 groupadd[1793]: group added to /etc/group: name=postdrop, GID=90
+<86>Feb 28 11:09:44 groupadd[1793]: group added to /etc/gshadow: name=postdrop
+<86>Feb 28 11:09:44 groupadd[1793]: new group: name=postdrop, GID=90
+<86>Feb 28 11:09:44 groupadd[1797]: group added to /etc/group: name=postfix, GID=89
+<86>Feb 28 11:09:44 groupadd[1797]: group added to /etc/gshadow: name=postfix
+<86>Feb 28 11:09:44 groupadd[1797]: new group: name=postfix, GID=89
+<86>Feb 28 11:09:44 useradd[1802]: new user: name=postfix, UID=89, GID=89, home=/var/spool/postfix, shell=/sbin/nologin
+<86>Feb 28 11:09:44 useradd[1802]: add 'postfix' to group 'mail'
+<86>Feb 28 11:09:44 useradd[1802]: add 'postfix' to shadow group 'mail'
+<86>Feb 28 11:10:16 groupadd[2275]: group added to /etc/group: name=stapusr, GID=156
+<86>Feb 28 11:10:16 groupadd[2275]: group added to /etc/gshadow: name=stapusr
+<86>Feb 28 11:10:16 groupadd[2275]: new group: name=stapusr, GID=156
+<86>Feb 28 11:10:16 groupadd[2280]: group added to /etc/group: name=stapsys, GID=157
+<86>Feb 28 11:10:16 groupadd[2280]: group added to /etc/gshadow: name=stapsys
+<86>Feb 28 11:10:16 groupadd[2280]: new group: name=stapsys, GID=157
+<86>Feb 28 11:10:16 groupadd[2285]: group added to /etc/group: name=stapdev, GID=158
+<86>Feb 28 11:10:16 groupadd[2285]: group added to /etc/gshadow: name=stapdev
+<86>Feb 28 11:10:16 groupadd[2285]: new group: name=stapdev, GID=158
+<86>Feb 28 11:10:51 groupadd[2313]: group added to /etc/group: name=sshd, GID=74
+<86>Feb 28 11:10:51 groupadd[2313]: group added to /etc/gshadow: name=sshd
+<86>Feb 28 11:10:51 groupadd[2313]: new group: name=sshd, GID=74
+<86>Feb 28 11:10:51 useradd[2318]: new user: name=sshd, UID=74, GID=74, home=/var/empty/sshd, shell=/sbin/nologin
+<86>Feb 28 11:10:57 groupadd[2330]: group added to /etc/group: name=puppet, GID=52
+<86>Feb 28 11:10:57 groupadd[2330]: group added to /etc/gshadow: name=puppet
+<86>Feb 28 11:10:57 groupadd[2330]: new group: name=puppet, GID=52
+<86>Feb 28 11:10:57 useradd[2335]: new user: name=puppet, UID=52, GID=52, home=/var/lib/puppet, shell=/sbin/nologin
+<86>Feb 28 11:11:03 groupadd[2361]: group added to /etc/group: name=tcpdump, GID=72
+<86>Feb 28 11:11:03 groupadd[2361]: group added to /etc/gshadow: name=tcpdump
+<86>Feb 28 11:11:03 groupadd[2361]: new group: name=tcpdump, GID=72
+<86>Feb 28 11:11:03 useradd[2365]: new user: name=tcpdump, UID=72, GID=72, home=/, shell=/sbin/nologin
+<86>Feb 28 11:11:13 groupadd[2389]: group added to /etc/group: name=slocate, GID=21
+<86>Feb 28 11:11:13 groupadd[2389]: group added to /etc/gshadow: name=slocate
+<86>Feb 28 11:11:13 groupadd[2389]: new group: name=slocate, GID=21
