@@ -43,6 +43,6 @@ rm -rf ${RPM_BUILD_ROOT}
 
 %changelog
 
-* Tue Aug 27 2013 nilesh.barot@itv.com 
+* Tue Aug 27 2013 barotn@gmail.com 
 
 - initial rpm for glassfish
